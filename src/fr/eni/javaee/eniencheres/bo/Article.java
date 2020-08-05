@@ -194,7 +194,7 @@ public class Article {
         return prixVente;
     }
 
-    public void setPrixVente(int prixVente) {
+    public void setPe) {
         this.prixVente = prixVente;
     }
 
